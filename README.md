@@ -6,6 +6,5 @@
 
 
 - 📫 How to reach me:  
-  -----> Mail address: aymane.sguiar@ecl19.ec-lyon.fr <br>
   -----> LinkedIn: https://www.linkedin.com/in/aymane-sguiar/
 
